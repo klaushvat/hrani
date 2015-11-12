@@ -1,2 +1,1 @@
 Print ("welcome")
-Print ("How du you do")
