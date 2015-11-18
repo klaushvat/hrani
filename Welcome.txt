@@ -1,1 +1,2 @@
 Print ("welcome;")
+Print ("Здрасте Вам;")
