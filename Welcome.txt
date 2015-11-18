@@ -1,2 +1,2 @@
-Print ("welcome")
-Print ("Здрасте Вам")
+Print ("welcome;")
+Print ("Здрасте Вам;")
